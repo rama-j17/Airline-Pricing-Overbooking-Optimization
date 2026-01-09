@@ -1,4 +1,4 @@
-# Monte Carlo Simulation of Air Ticket Overselling
+# Airline-Pricing-Overbooking-Optimization 
 
 # Highlight part:
 #Please refer to simulation.ipynb, the Monte_Carlo funtion is the hightlight part, which simulates the real-world scenario of ticket booking of airline company
